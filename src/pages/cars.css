@@ -1,0 +1,33 @@
+.book{
+    height: 50px;
+    background-color: red;
+    border-radius: 8px;
+   font-size: 17px;
+    border: none;
+    color: aliceblue;
+    width: 100px;
+   padding-left: 8px;
+  
+   
+    
+}
+
+
+.book:hover{
+    background-color: rgba(225, 5, 38, 0.763);
+}
+
+.carbackground{
+    overflow: hidden;
+}
+
+.card-car{
+    transition:transform 0.2 ease,background-color 0.4 ease
+
+    
+}
+
+.card-car:hover{
+    transform: translateY(-20px);
+    background-color: rgb(217, 217, 153);
+}

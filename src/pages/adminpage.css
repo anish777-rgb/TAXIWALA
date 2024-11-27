@@ -1,0 +1,18 @@
+#bookingtrans,#contacttrans,#logintrans{
+    transition: transform 0.2s ease background-colour 0.4s ease ;
+
+}
+
+#bookingtrans:hover,#contacttrans:hover,#logintrans:hover{
+    transform: translateY(20px);
+}
+
+
+.adminpageback{
+    background-color: rgb(243, 239, 235);
+
+    height: 120vh;
+
+
+    display: grid;
+}

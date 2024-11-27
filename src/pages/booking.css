@@ -1,0 +1,93 @@
+.form-control {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 8px;
+    width: 100%;
+}
+.backgroundbooking{
+    
+background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(216,241,230,0.46) 0.1%, rgba(233,226,226,0.28) 90.1% );
+display: grid;
+overflow: hidden;
+}
+
+
+.booking-intro {
+    text-align: center;
+    margin-top: 5px;
+    
+    font-size: 18px;
+    color: #393838;
+    font-family: 'Arial', sans-serif;
+    
+}
+
+
+.booking-intro {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.booking-intro {
+    border: 3px solid #ccc;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+
+#table {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.label-left{
+    text-align: left;
+}
+
+.btn {
+    padding: 10px 20px;
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 15px;
+}
+
+
+.bord{
+    margin-top: 10px;
+}
+
+#table{
+    border: 2px solid rgb(15, 15, 59);
+   
+    
+}
+.let{
+   
+    display: grid;
+    text-align: left;
+    font-size: 16px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.button{
+    margin-top: 20px;
+}
+
+#comments{
+    height: 100px;
+}
+

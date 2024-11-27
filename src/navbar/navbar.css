@@ -1,0 +1,58 @@
+.navbar {
+  background-color: black;
+}
+
+.navbar-brand {
+  color: #c7ae0b !important;
+  font-size: 45px;
+  font-weight: bold;
+  text-shadow: 2px 2px #0f0f0fdd;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 18px;
+  margin-left: 15px;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover, .nav-link:focus {
+  color: #c7ae0b !important;
+}
+
+.nav-item .dropdown-menu {
+  background-color: black;
+}
+
+.dropdown-item {
+  color: white;
+  transition: background-color 0.3s ease;
+  background-color: black; /* Ensure the default background color is black */
+}
+
+.dropdown-item:hover {
+  background-color: #c7ae0b !important;
+  color: black !important; 
+}
+
+
+.btn-outline-light {
+  color: white;
+  border-color: #c7ae0b;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+.btn-outline-light:hover {
+  background-color: #c7ae0b;
+  border-color: #c7ae0b;
+  color: black;
+}
+
+#imgicon {
+  margin-left: 20px;
+}
+
+.nav-item span {
+  color: #c7ae0b;
+  font-weight: bold;
+}

@@ -1,0 +1,30 @@
+
+
+#adminput{
+  padding-left: 10px;
+ 
+  border-radius: 4px;
+  height: 40px;
+  color: rgb(22, 22, 22);
+ 
+
+}
+
+
+#admincont{
+    background: #536976;  
+    background: -webkit-linear-gradient(to right, #292E49, #536976);  
+    background: linear-gradient(to right, #292E49, #536976); 
+    
+}
+#admingap{
+  margin-right: 10px;
+}
+
+
+.adminback{
+  background-color: rgb(218, 218, 217);
+  display: grid;
+  height: 120vh;
+  overflow: hidden;
+}

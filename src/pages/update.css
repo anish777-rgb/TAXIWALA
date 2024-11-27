@@ -1,0 +1,12 @@
+.updatetable{
+    text-align: left;
+    padding-left: 7px;
+    margin-top: 7px;
+ 
+}
+#update{
+    border-color: black;
+    border: 2px solid;
+    margin-top: 7px;
+    border-radius: 4px;
+}

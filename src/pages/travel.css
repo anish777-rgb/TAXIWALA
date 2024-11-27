@@ -1,0 +1,50 @@
+
+.card-title {
+    font-size: 30px;
+    color: #12163c;
+    
+  }
+  
+ 
+  .card-text {
+    font-size: 15px;
+    color: #666;
+  }
+  
+ 
+  .text-muted {
+    font-size: 13px;
+    color: #080808;
+  }
+  
+
+ 
+  .container {
+    padding: 20px;
+  }
+  
+  
+  .card-group {
+    margin-bottom: 20px;
+  
+  }
+  
+  
+  .card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+
+  
+
+  .card-body {
+    padding: 20px;
+  }
+  
+  .col-md-4 {
+    margin-bottom: 20px;
+  }
+  

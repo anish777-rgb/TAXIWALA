@@ -1,0 +1,274 @@
+.footer{
+    position: relative;
+   bottom: 0;
+    width: 100%;
+    background: rgb(34, 33, 33) ;
+  
+    
+   
+   
+    
+   
+}
+
+.abouthome{
+    margin-top: 150px;
+    background-color: #e9e9e9;
+   
+    
+   
+}
+.globalpic{
+  border: 5px solid rgb(254, 254, 254);
+  border-radius: 5px;
+  
+}
+
+.card-why-choose-us {
+    
+   
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  
+  .card-why-choose-us:hover {
+    background-color:#FFC107;
+    color: #c7d951;
+    transform: translateY(-10px);
+   
+  }
+
+
+
+  .card-driver{
+
+    background-color: #ffffff;
+    border-radius: 20px;
+   
+   
+    
+   
+   
+  }
+
+  .card-driver:hover{
+    transform: translateY(-10px);
+    background-color:#FFC107 ;
+    color: white;
+  
+    
+    
+  }
+
+  .testimonial-card .card-up {
+    height: 120px;
+    overflow: hidden;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+  }
+  .testimonial-card .avatar {
+    width: 110px;
+    margin-top: -60px;
+    overflow: hidden;
+    border: 3px solid #fff;
+    border-radius: 50%;
+  }
+
+
+  .card-offer{
+    transition: transform 0.2s ease,background-color 0.4s ease;
+  }
+.card-offer:hover{
+  background-color: rgb(238, 238, 124);
+  transform: translatex(-10px);
+}
+
+
+
+
+  
+
+
+
+
+.global{
+    margin-top: 100px;
+    background-color: #fff;
+ 
+}
+
+
+.fair{
+    margin-top: 50px;
+    
+
+   
+    
+}
+
+
+    
+
+#abouttax{
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border: solid 8px rgb(156, 153, 153);
+}
+
+
+
+
+
+p{
+    font-size: 30px;
+    color: rgb(7, 7, 7);
+    text-align: justify;
+    font-family:sans-serif;
+    word-spacing: 0;
+    letter-spacing: 0;
+    
+}
+
+#btn{
+ background-color: black;
+}
+
+
+
+
+.backgroundhome{
+  background-color:white;
+    width: 100%;
+    height: fit-content;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.offer{
+
+    margin-top: 150px;
+    
+    
+  
+   
+
+}
+
+#img{
+    border-radius: 20px;
+}
+
+
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+h3{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+h4{
+   
+   text-align: left;
+}
+
+h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.workers{
+    margin-top: 50px;
+    background-color: #e9e9e9;
+  
+}
+
+
+.slidecar{
+    margin-top: 200px;
+}
+
+.twenty{
+    margin-top: 150px;
+    background-color: #e9e9e9;
+ 
+    
+  
+}
+
+
+
+
+.card-why-choose-us {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    
+  }
+
+
+
+  .card-title-why-choose-us {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #090c0e;
+  }
+
+  .card-text-why-choose-us {
+    font-size: 1rem;
+    color: #333;
+  }
+
+  .icon {
+    font-size: 2rem;
+    color: #090b0e;
+    margin-bottom: 10px;
+  }
+
+
+  #imghelp{
+  
+    border-radius: 10px;
+  
+    transition: transform 0.3s ease;
+  }
+
+  #imghelp:hover{
+    transform: scale(1.05);
+  }
+
+
+  .review{
+    margin-top: 100px;
+   
+  }
+
+
+  .carousel-caption .btn-outline-light {
+    color: black;
+    border-color: #FFC107; /* Yellow */
+    background-color: #FFC107;
+}

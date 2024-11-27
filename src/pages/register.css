@@ -1,0 +1,68 @@
+#formsign{
+   margin-top: 2px;
+   padding-left: 30px;
+   padding-right: 30px;
+   color: white;
+   text-align: left;
+  
+}
+
+
+.error-message {
+    color: red;
+    text-shadow: 0px 0px 11px rgb(11, 11, 11);
+    font-size: 14px; 
+    font-weight: bold; 
+    margin-top: 5px; 
+    font-family: 'Arial', sans-serif; 
+}
+
+   
+
+
+.reg{
+    margin-top: 10px;
+}
+
+#username,#emails,#password,#confirm-password,#fullname{
+    background-color: #e1e1e1b8;
+    border-color: black;
+    height: 40px;
+   
+  
+    border-radius: 12px;
+    
+   
+    
+   
+}
+#bo{
+    background: #4ECDC4;  
+    background: -webkit-linear-gradient(to right, #556270, #4ECDC4);  
+    background: linear-gradient(to right, #556270, #4ECDC4);
+    
+     
+     border-top-left-radius: 12px;
+     border-bottom-left-radius: 12px;
+}
+
+
+
+
+#emailid{
+   
+    background-color: #e1e1e1b8;
+    border-radius: 12px;
+}
+
+
+#pic{
+   border: 1px solid;
+   background-image: url('/src/images/t.jpg');
+   background-position:center;
+   background-size:cover;
+  
+  
+   
+  
+}
